@@ -6,7 +6,7 @@
   <link href="https://june-storm.github.io/atom.xml" rel="self"/>
   
   <link href="https://june-storm.github.io/"/>
-  <updated>2021-05-13T14:23:49.913Z</updated>
+  <updated>2021-05-13T14:37:33.917Z</updated>
   <id>https://june-storm.github.io/</id>
   
   <author>
@@ -21,26 +21,12 @@
     <link href="https://june-storm.github.io/2021/05/13/2021-05-13-parrot/"/>
     <id>https://june-storm.github.io/2021/05/13/2021-05-13-parrot/</id>
     <published>2021-05-13T14:14:00.000Z</published>
-    <updated>2021-05-13T14:23:49.913Z</updated>
+    <updated>2021-05-13T14:37:33.917Z</updated>
     
-    <content type="html"><![CDATA[<p>测试一下发图片和表格，以及秀秀自己捏的人。</p><table><thead><tr><th>姓名</th><th>学舌（parrot）</th></tr></thead><tbody><tr><td>种族</td><td>异界族（奇美拉）</td></tr><tr><td>人物关系</td><td>六月（朋友？模仿对象？）</td></tr></tbody></table><p><img src="D:\June\Blog\hexo\source\imgs\parrot1.png" alt="normal"></p><p><img src="D:\June\Blog\hexo\source\imgs\parrot2.png" alt="blood"></p><p><img src="D:\June\Blog\hexo\source\imgs\parrot3.png" alt="parrot3"></p>]]></content>
+    <content type="html"><![CDATA[<p>测试一下发图片和表格，以及秀秀自己捏的人。</p><span id="more"></span><table><thead><tr><th>姓名</th><th>学舌（parrot）</th></tr></thead><tbody><tr><td>种族</td><td>异界族（奇美拉）</td></tr><tr><td>人物关系</td><td>六月（朋友？模仿对象？）</td></tr></tbody></table><p><img src="https://ftp.bmp.ovh/imgs/2021/05/c82acae02efa7ca7.png" alt="normal"></p><p><img src="https://ftp.bmp.ovh/imgs/2021/05/db16fcbb9590a10b.png" alt="covered"></p><p><img src="https://ftp.bmp.ovh/imgs/2021/05/d890d7b4aecf10ae.png" alt="blood"></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;测试一下发图片和表格，以及秀秀自己捏的人。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;姓名&lt;/th&gt;
-&lt;th&gt;学舌（parrot）&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;种族&lt;/td&gt;
-&lt;td&gt;异界族（奇美拉）&lt;/td&gt;
-&lt;</summary>
-      
+    <summary type="html">&lt;p&gt;测试一下发图片和表格，以及秀秀自己捏的人。&lt;/p&gt;</summary>
     
     
     
