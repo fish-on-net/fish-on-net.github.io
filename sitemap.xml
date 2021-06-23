@@ -2,79 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://june-storm.github.io/2021/05/20/2021-05-20-520/</loc>
+    <loc>https://june-storm.github.io/wiki/2021-05-20-520/</loc>
     
-    <lastmod>2021-05-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://june-storm.github.io/2021/05/08/2021-05-08-OnesNote/</loc>
-    
-    <lastmod>2021-05-10</lastmod>
+    <lastmod>2021-06-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://june-storm.github.io/2021/05/08/2021-05-08-Lachesism1-2/</loc>
+    <loc>https://june-storm.github.io/wiki/2021-06-23-AbyssWitch/</loc>
     
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-06-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://june-storm.github.io/about/index.html</loc>
+    <loc>https://june-storm.github.io/wiki/2021-05-08-Lachesism1/</loc>
     
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-06-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://june-storm.github.io/wiki/2021-06-23-Lachesism2/</loc>
+    
+    <lastmod>2021-06-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://june-storm.github.io/wiki/2021-03-25-notitle/</loc>
+    
+    <lastmod>2021-06-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://june-storm.github.io/tags/index.html</loc>
     
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-06-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://june-storm.github.io/categories/index.html</loc>
     
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-06-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://june-storm.github.io/2021/05/05/2021-05-05-0505/</loc>
+    <loc>https://june-storm.github.io/about/index.html</loc>
+    
+    <lastmod>2021-06-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://june-storm.github.io/wiki/2021-05-08-OnesNote/</loc>
+    
+    <lastmod>2021-05-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://june-storm.github.io/wiki/2021-03-24-Storm/</loc>
     
     <lastmod>2021-05-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://june-storm.github.io/2021/03/24/2021-03-24-Storm/</loc>
-    
-    <lastmod>2021-05-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://june-storm.github.io/2021/05/03/2021-05-03-daybreak01/</loc>
+    <loc>https://june-storm.github.io/wiki/2021-05-03-daybreak01/</loc>
     
     <lastmod>2021-05-04</lastmod>
     
   </url>
   
   <url>
-    <loc>https://june-storm.github.io/2021/03/28/2021-3-28-Obsession/</loc>
+    <loc>https://june-storm.github.io/wiki/2021-3-28-Obsession/</loc>
     
     <lastmod>2021-05-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://june-storm.github.io/2021/03/25/2021-03-25-notitle/</loc>
-    
-    <lastmod>2021-03-26</lastmod>
     
   </url>
   
@@ -88,29 +95,22 @@
 
   <url>
     <loc>https://june-storm.github.io/</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://june-storm.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2021-06-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://june-storm.github.io/tags/%E6%8B%82%E6%99%93%E4%B9%8B%E6%97%B6/</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://june-storm.github.io/tags/%E4%B9%85%E5%85%89/</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,28 +119,35 @@
   
   <url>
     <loc>https://june-storm.github.io/categories/%E5%8D%83%E9%A1%B5%E7%95%8C/</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://june-storm.github.io/categories/%E5%8D%83%E9%A1%B5%E7%95%8C/%E5%B9%BB%E6%B5%B7%E7%95%8C/</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://june-storm.github.io/categories/%E5%8D%83%E9%A1%B5%E7%95%8C/%E8%9B%AE%E8%8D%92%E7%95%8C/</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://june-storm.github.io/categories/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://june-storm.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
